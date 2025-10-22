@@ -106,7 +106,7 @@
   <div class="container">
     <div class="card">
       <h1>Follow Us 
-	  <br> For More Updates </br>
+	  <br> For More Updates
 	  </h1>
       <p>Scan the QR code or click the links below to follow us on social media.</p>
 
